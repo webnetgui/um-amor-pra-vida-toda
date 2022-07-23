@@ -43,8 +43,8 @@ header {
 header h1 {
     display: inline-block;
     font-family: var(--font01);
-    padding: 10px;
-    padding-left: 10vw;
+    padding: 20px;
+    padding-left: 12vw;
     font-weight: bold;
     font-size: 7vmin;
 
